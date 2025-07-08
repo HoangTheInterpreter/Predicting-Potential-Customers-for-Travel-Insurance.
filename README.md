@@ -16,7 +16,7 @@ Ever Travelled Abroad: Past international travel experience, which may increase 
 Travel Insurance (Target Variable): Indicates whether the customer purchased travel insurance in a 2019 promotional campaign.
 By analyzing these variables using machine learning models such as Logistic Regression, Neural Networks, and Decision Trees, the project aims to accurately predict potential buyers and support insurance companies in targeting the right customer segments.
 
-3. Tools and Techniques Used:
+3. Tools and Techniques:
 Tool: SPSS Clementine 12.0
 •	Techniques and Models:
 o	Data Preprocessing:
