@@ -2,11 +2,11 @@
 
 1. Business Request:
 
-To build a predictive model that helps travel insurance companies identify potential customers based on demographic characteristics, income, health status, and travel behavior. This model will support businesses in designing targeted marketing strategies, optimizing resource allocation, and increasing the likelihood of insurance purchases.
+- To build a predictive model that helps travel insurance companies identify potential customers based on demographic characteristics, income, health status, and travel behavior. This model will support businesses in designing targeted marketing strategies, optimizing resource allocation, and increasing the likelihood of insurance purchases.
 
 2. Main Idea:
 
-This project applies data mining techniques to build a predictive model that identifies individuals likely to purchase travel insurance. The model is trained on a dataset containing various customer attributes, including:
+- This project applies data mining techniques to build a predictive model that identifies individuals likely to purchase travel insurance. The model is trained on a dataset containing various customer attributes, including:
 
 Age: Customer’s age (25–35), which may influence travel frequency and risk perception.
 
@@ -26,7 +26,7 @@ Ever Travelled Abroad: Past international travel experience, which may increase 
 
 Travel Insurance (Target Variable): Indicates whether the customer purchased travel insurance in a 2019 promotional campaign.
 
-By analyzing these variables using machine learning models such as Logistic Regression, Neural Networks, and Decision Trees, the project aims to accurately predict potential buyers and support insurance companies in targeting the right customer segments.
+- By analyzing these variables using machine learning models such as Logistic Regression, Neural Networks, and Decision Trees, the project aims to accurately predict potential buyers and support insurance companies in targeting the right customer segments.
 
 3. Tools and Techniques:
 
