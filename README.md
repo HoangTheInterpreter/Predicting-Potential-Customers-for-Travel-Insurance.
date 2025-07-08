@@ -30,26 +30,22 @@ Travel Insurance (Target Variable): Indicates whether the customer purchased tra
 
 3. Tools and Techniques:
 
-Tool: SPSS Clementine 12.0
+Tool used: SPSS Clementine 12.0 was utilized for the entire data analysis and modeling process.
 
-•	Techniques and Models:
+Data Preprocessing:
 
-o	Data Preprocessing:
+- Duplicate records and rows with missing values were removed to ensure data quality.
 
-Removed duplicate records and rows with missing values.
+- All variables were normalized to a common scale (0–1) to minimize bias caused by differing value ranges.
 
-Normalized variables to a common scale (0–1) to reduce bias caused by differing value ranges.
+- Downsampling was applied to balance the dataset and enhance model performance.
 
-Applied downsampling to balance the dataset and improve model accuracy.
+Model Development:
 
-o	Modeling Techniques:
+- Three machine learning models were built: Logistic Regression, Neural Networks, and Decision Trees.
 
-Logistic Regression
+Model Evaluation:
 
-Neural Networks
+- The models were compared based on their accuracy on the test set.
 
-Decision Trees
-
-o	Model Evaluation:
-
-Compared model performance to select the most accurate and efficient predictive model.
+- The Neural Network model achieved the highest accuracy at 80.61%, making it the most effective for predicting travel insurance purchases.
